@@ -7,3 +7,8 @@
 	path = Alpiek-Oisterwijk/odoo-product-configurator
 	url = git@github.com:Alpiek-Oisterwijk/odoo-product-configurator.git
 	branch = pledra-11
+
+[submodule "captivea/odoo_addons_demo_v11"]
+	path = captivea/odoo_addons_demo_v11
+	url = git@github.com:captivea/odoo_addons_demo_v11.git
+	branch = dev
