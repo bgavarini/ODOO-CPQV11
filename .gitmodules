@@ -2,3 +2,8 @@
 	path = pledra/odoo-product-configurator
 	url = git@github.com:pledra/odoo-product-configurator.git
 	branch = 11.0
+
+[submodule "Alpiek-Oisterwijk/odoo-product-configurator"]
+	path = Alpiek-Oisterwijk/odoo-product-configurator
+	url = git@github.com:Alpiek-Oisterwijk/odoo-product-configurator.git
+	branch = pledra-11
